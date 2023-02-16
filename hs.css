@@ -1,0 +1,82 @@
+.s ul{
+    background-color: rgba(224, 23, 13, 0.653);
+    overflow: auto;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.s li{
+    display: inline-block;
+    text-align: center;
+}
+.s li a{
+    display: inline-block;
+    background-color: rgb(255, 85, 0);
+    overflow: auto;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.s li a:hover{
+    background-color: bisque;
+}
+.q{
+    background-color: rgb(224, 23, 13, 0.653);
+    overflow: auto;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.photo{
+    background-color: rgb(224, 23, 13, 0.653);
+    overflow: scroll;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+    border-radius: 5px;
+    margin: 20px;
+    object-fit: cover;
+    object-position: top;
+}
+.y ul {
+    background-color: azure;
+    overflow: scroll;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.y li{
+    display: inline-block;
+    text-align: center;
+}
+.y li a{
+    display: inline-block;
+    background-color: blanchedalmond;
+    overflow: auto;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.y li a:hover{
+    background-color: bisque;
+}
+h1{
+    color: rgba(0, 26, 83, 0.596);
+    font-size: large;
+    font-weight: bolder;
+}
+
+.photo h2{
+    color: brown;
+    font-size: medium;
+}
+.y h2{
+    color: rgb(214, 0, 214);
+}
+.y p{
+    color: darkturquoise;
+}
